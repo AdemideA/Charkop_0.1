@@ -1,5 +1,5 @@
 //Set initial view
-var map = L.map('mapContainer').setView([19.2069, 72.8245], 11);
+var map = L.map('mapContainer').setView([19.2069, 72.8245], 15);
 
 //19.0760, 72.8777 - Bombay (use zoom 11)
 L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYWRlbWlkZWEiLCJhIjoiY2l6ZGJueHpzMXV0MDJxcW9qYjc2ZnYzYyJ9.3ulYJ3UmEqZn7HHyX-vs7g', {
